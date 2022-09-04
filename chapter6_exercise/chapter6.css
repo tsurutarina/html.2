@@ -1,0 +1,34 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+
+.box-sp{
+  width:100%;
+  height:200px;
+  background-image:url(img/box1.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.box-su{
+  width:100%;
+  height:200px;
+  background-image:url(img/box2.jpg);
+  background-size:cover;
+  background-position: center;
+}
+.box-au{
+  width:100%;
+  height:200px;
+  background-image:url(img/box3.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.box-wi{
+  width:100%;
+  height:200px;
+  background-image:url(img/box4.jpg);
+  background-position: center;
+  background-size: cover;
+}
