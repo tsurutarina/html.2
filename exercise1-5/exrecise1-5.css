@@ -1,0 +1,29 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+/*header*/
+header{
+  width:100%;
+  padding:20px 0;
+  text-align:center;
+}
+
+/*nav*/
+.nav-list{
+  text-align: center;
+  padding:15px 0;
+  margin:0 auto;
+  
+}
+.nav-list-item{
+  list-style:none;
+  display: inline-block;
+  margin:0 20px;
+}
+/*main*/
+
+
+/*footer*/
